@@ -1,4 +1,4 @@
-
+<img width="554" height="333" alt="ex2_ss09" src="https://github.com/user-attachments/assets/620059d0-a23d-49ca-bcca-4bbeb4e9dabd" />
 # Bài 2: Khởi chạy Web Server Nginx với Port Mapping
 
 ## 1. Mục tiêu
