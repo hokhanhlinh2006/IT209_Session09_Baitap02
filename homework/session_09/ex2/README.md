@@ -1,4 +1,4 @@
-<img width="554" height="333" alt="ex2_ss09" src="https://github.com/user-attachments/assets/620059d0-a23d-49ca-bcca-4bbeb4e9dabd" />
+
 # Bài 2: Khởi chạy Web Server Nginx với Port Mapping
 
 ## 1. Mục tiêu
@@ -38,3 +38,4 @@ docker stop my-web && docker rm my-web
 ## 5. Kết luận
 
 Đã hoàn thành việc khởi chạy Web Server Nginx bằng Docker, ánh xạ cổng 8080:80, kiểm tra truy cập thành công và dọn dẹp container sau khi thử nghiệm.
+<img width="554" height="333" alt="ex2_ss09" src="https://github.com/user-attachments/assets/620059d0-a23d-49ca-bcca-4bbeb4e9dabd" />
